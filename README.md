@@ -1,5 +1,9 @@
 # Spatial Generative Adversarial Networks
 
+Code is deprecated and not supported anymore. Please go to https://github.com/zalandoresearch/psgan for a newer version.
+
+##############
+
 This code implements Spatial Generative Adversarial Networks (SGANs) on top of Lasagne/Theano, as published in the paper
 [https://arxiv.org/abs/1611.08207](https://arxiv.org/abs/1611.08207)
 
